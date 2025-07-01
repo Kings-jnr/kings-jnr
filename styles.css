@@ -44,6 +44,10 @@ html {
     scroll-behavior: smooth;
 }
 
+.favicon {
+    border-radius: 50%;
+}
+
 /* Stlying for whole site */
 ul {
     list-style: none;
